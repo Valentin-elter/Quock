@@ -1,0 +1,13 @@
+{
+  "name": "quock.io",
+  "version": "0.1.0",
+  "description": "A multiplayer FPS game with babylonJS  by students at Epitech Strasbourg.",
+  "main": "server.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "express": "4.10.2",
+    "socket.io": "1.5.1"
+  }
+}
