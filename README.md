@@ -1,7 +1,7 @@
 # Quock
-Thirst year project student, a base for a FPS online made with babylon.js
+Third year project student, a base for a FPS online made with babylon.js
 
-## Build with linux (ubuntu)
+## Build on Linux (Ubuntu)
 
 ### 1. Install the dependencies:
 
